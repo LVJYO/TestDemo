@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<books>
+    <book id="1">
+        <name>钢铁是怎样练成的</name>
+        <author>尼古拉.奥斯特洛夫斯基</author>
+    </book>
+    <book id="2">
+        <name>三国演义</name>
+        <author>罗贯中</author>
+    </book>
+    <book id="3">
+        <name>水浒传</name>
+        <author>施耐庵</author>
+    </book>
+</books>
